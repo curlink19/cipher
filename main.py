@@ -3,7 +3,7 @@ import random
 
 module = 0x10FFFF + 1
 xorModule = 2**20
-decodeModule = module
+decodeModule = 1000
 
 seqCounter = dict()
 
